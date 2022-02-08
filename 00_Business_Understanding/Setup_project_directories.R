@@ -16,9 +16,3 @@ make_project_dir <- function() {
     dir_ls()
 }
 
-# Use 
-dir_delete() # to delete any unnesccary directories 
-
-# Our first script file 
-getwd("/Users/seunghyunsung/Desktop/University_business_science/DS4B_201/HR_201")
-
