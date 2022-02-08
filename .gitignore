@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+00_Data/*
+00_Scripts/*
+Note_book/*
